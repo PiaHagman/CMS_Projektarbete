@@ -10,11 +10,8 @@
 
 
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-	<meta name="description" content="" />
-	<meta name="author" content="" />
-	<title>@Model.Name</title>
+
+	@await Html.PartialAsync("./Partials/metaData/metaData.cshtml")
 	<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 	<!-- Font Awesome icons (free version)-->
 	<script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
@@ -34,12 +31,13 @@
 
 	var selection = Umbraco.ContentAtRoot().FirstOrDefault()
 
-					.Children()
+			.Children()
 
-					.Where(x => x.IsVisible());
+			.Where(x => x.IsVisible());
 
-	
-	var backgroundImageUrl = Model.Value("imageCropper");
+
+	var backgroundImageUrl =
+	@Model.Value("headerImage");
 
 }
 
@@ -60,9 +58,9 @@
 
 				@foreach (var item in selection)
 				{
-						<li class="nav-item">
-							<a class="nav-link px-lg-3 py-3 py-lg-4" href="@item.Url()">@item.Name()</a>
-						</li>
+					<li class="nav-item">
+						<a class="nav-link px-lg-3 py-3 py-lg-4" href="@item.Url()">@item.Name()</a>
+					</li>
 				}
 
 			</ul>
@@ -132,9 +130,9 @@
 						</a>
 					</li>
 				</ul>
-								<div class="small text-center text-muted fst-italic">Copyright &copy; Psykologkompassen
+				<div class="small text-center text-muted fst-italic">Copyright &copy; Psykologkompassen
 					@DateTime.Now.Year</div>
-							</div>
+			</div>
 		</div>
 	</div>
 </footer>
