@@ -1,5 +1,5 @@
-﻿@using Umbraco.Cms.Web.Common.PublishedModels;
-@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage;
+﻿@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage;
+
 
 @{
 
@@ -8,10 +8,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <head>
 
-	@await Html.PartialAsync("./Partials/metaData/metaData.cshtml")
+	@await Html.PartialAsync("./Partials/metaData.cshtml")
 	<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 	<!-- Font Awesome icons (free version)-->
 	<script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
@@ -24,118 +23,19 @@
 	<!-- Core theme CSS (includes Bootstrap)-->
 	<link href="/css/styles.css" rel="stylesheet" />
 </head>
-<!-- Navigation-->
 
-
-@{
-
-	var selection = Umbraco.ContentAtRoot().FirstOrDefault()
-
-			.Children()
-
-			.Where(x => x.IsVisible());
-
-
-	var backgroundImageUrl =
-	@Model.Value("headerImage");
-
-}
-
-<nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
-	<div class="container px-4 px-lg-5">
-
-		<a class="navbar-brand" href="/"><img style="height: auto;
-    	max-height: 50px;
-    	width: auto;
-    	max-width: 100%;" src="/assets/img/main-logo.png" alt="Psykologkompassen" /></a>
-		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-			aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-			Menu
-			<i class="fas fa-bars"></i>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarResponsive">
-			<ul class="navbar-nav ms-auto py-4 py-lg-0">
-
-				@foreach (var item in selection)
-				{
-					<li class="nav-item">
-						<a class="nav-link px-lg-3 py-3 py-lg-4" href="@item.Url()">@item.Name()</a>
-					</li>
-				}
-
-			</ul>
-		</div>
-	</div>
-</nav>
-
+<!-- Navigation -->
+@await Html.PartialAsync("./Partials/navigation.cshtml")
 
 <!-- Page Header-->
-<header class="masthead" style="background-image: url('@backgroundImageUrl')">
-	<div class="container position-relative px-4 px-lg-5">
-		<div class="row gx-4 gx-lg-5 justify-content-center">
-			<div>
-				<div class="site-heading">
-					<span class="subheading" style='
-					font-family: "adobe-garamond-pro";
-    				font-size: 24px;
-    				line-height: 1.5em;
-    				text-transform: none;
-					letter-spacing: 1px;
-					font-weight: 400;
-					font-style: italic;
-					color: #fff;
-					margin: 20px auto;'>
-						@Model.Value("subtitle")
-					</span>
-					<h1 style="letter-spacing: 0.0588235em; font-size: 49px;">
-						@Model.Value("title")</h1>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
+@await Html.PartialAsync("./Partials/pageHeader.cshtml")
 
 
-@RenderBody();
+@RenderBody()
 
 <!-- Footer-->
+@await Html.PartialAsync("./Partials/footer.cshtml")
 
-<footer class="border-top">
-	<div class="container px-4 px-lg-5">
-		<div class="row gx-4 gx-lg-5 justify-content-center">
-			<div class="col-md-10 col-lg-8 col-xl-7">
-				<ul class="list-inline text-center">
-					<li class="list-inline-item">
-						<a href="#!">
-							<span class="fa-stack fa-lg">
-								<i class="fas fa-circle fa-stack-2x"></i>
-								<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-							</span>
-						</a>
-					</li>
-					<li class="list-inline-item">
-						<a href="#!">
-							<span class="fa-stack fa-lg">
-								<i class="fas fa-circle fa-stack-2x"></i>
-								<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-							</span>
-						</a>
-					</li>
-					<li class="list-inline-item">
-						<a href="#!">
-							<span class="fa-stack fa-lg">
-								<i class="fas fa-circle fa-stack-2x"></i>
-								<i class="fab fa-github fa-stack-1x fa-inverse"></i>
-							</span>
-						</a>
-					</li>
-				</ul>
-				<div class="small text-center text-muted fst-italic">Copyright &copy; Psykologkompassen
-					@DateTime.Now.Year</div>
-			</div>
-		</div>
-	</div>
-</footer>
 <!-- Bootstrap core JS-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <!-- Core theme JS-->
