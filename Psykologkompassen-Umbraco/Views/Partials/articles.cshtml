@@ -19,17 +19,17 @@
             }
             else
             {
-                @foreach (var article in data.articles)
+                @foreach (var article in data.Articles)
                 {
                     <div class="post-preview">
-                        <a href=@article.url>
-                            <h2 class="post-title">@article.title</h2>
-                            <h5 class="post-meta">@article.description</h5>
+                        <a href=@article.Url>
+                            <h2 class="post-title">@article.Title</h2>
+                            <h5 class="post-meta">@article.Description</h5>
                         </a>
                         <p class="post-meta">
                             Posted by
-                            @article.source.name
-                            on @article.publishedAt
+                            @article.Source.Name
+                            on @article.PublishedAt
                         </p>
 
                         <!-- Divider-->

@@ -1,26 +1,26 @@
 namespace Psykologkompassen_Umbraco.Articles;
 public class ApiResponse
 {
-    public string? status { get; set; }
-    public int totalResults { get; set; }
-    public List<Article>? articles { get; set; }
+
+    public string? Message { get; set; }
+    public List<Article>? Articles { get; set; }
+    public int TotalResults { get; set; }
 }
 
 public class Article
 {
-    public Source? source { get; set; }
-    public string? author { get; set; }
-    public string? title { get; set; }
-    public string? description { get; set; }
-    public string? url { get; set; }
-    public string? urlToImage { get; set; }
-    public DateTime publishedAt { get; set; }
-    public string? content { get; set; }
+    public Source? Source { get; set; }
+    public string? Author { get; set; }
+    public string? Title { get; set; }
+    public string? Description { get; set; }
+    public string? Url { get; set; }
+    public string? UrlToImage { get; set; }
+    public DateTime? PublishedAt { get; set; }
 }
 public class Source
 {
-    public string? id { get; set; }
-    public string? name { get; set; }
+    public string? Id { get; set; }
+    public string? Name { get; set; }
 }
 
 public class BlogClient
@@ -29,9 +29,19 @@ public class BlogClient
     {
         // Articles-Api fetching top-headline articles in the category health from Sweden and the US. 
         var client = new HttpClient();
-        var response = await client.GetFromJsonAsync<ApiResponse>("https://newsapi.org/v2/top-headlines?category=health&country=us&country=se&apiKey=3fbfb32ff6a64b1899c22e566a977ce7");
+        client.DefaultRequestHeaders.Add("User-Agent", "C# App");
 
-        return response;
+        try
+        {
+            var response = await client.GetFromJsonAsync<ApiResponse>("https://newsapi.org/v2/top-headlines?category=health&country=us&country=se&apiKey=3fbfb32ff6a64b1899c22e566a977ce7");
+            return response;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
 
+        }
+
+        return null;
     }
 }
