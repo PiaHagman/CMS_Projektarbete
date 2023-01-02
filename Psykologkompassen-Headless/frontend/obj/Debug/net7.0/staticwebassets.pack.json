@@ -65,8 +65,28 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\main-logo.png",
       "PackagePath": "staticwebassets\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\shutterstock_118658845.jpg",
+      "PackagePath": "staticwebassets\\images\\shutterstock_118658845.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\trad.jpg",
+      "PackagePath": "staticwebassets\\images\\trad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\tumblr_mh1iruZWLf1rkz363o1_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\tumblr_mh1iruZWLf1rkz363o1_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\winter-4097872_1920.jpg",
+      "PackagePath": "staticwebassets\\images\\winter-4097872_1920.jpg"
     },
     {
       "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\index.html",
