@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\frontend.styles.css"
     },
     {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.development.json",
+      "PackagePath": "staticwebassets\\appsettings.development.json"
+    },
+    {
       "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

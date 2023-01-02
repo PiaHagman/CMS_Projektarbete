@@ -818,7 +818,6 @@ C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\fronten
 C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\scopedcss\bundle\frontend.styles.css
 C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\scopedcss\projectbundle\frontend.bundle.scp.css
 C:\Users\annam\source\repos\CMS_Projektarbete\Psykologkompassen-Headless\frontend\obj\Debug\net7.0\frontend.csproj.CopyComplete

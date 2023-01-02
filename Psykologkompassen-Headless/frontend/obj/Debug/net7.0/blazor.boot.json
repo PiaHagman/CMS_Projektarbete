@@ -1,6 +1,8 @@
 {
   "cacheBootResources": true,
-  "config": [ ],
+  "config": [
+    "appsettings.development.json"
+  ],
   "debugBuild": true,
   "entryAssembly": "frontend",
   "icuDataMode": 0,
@@ -198,13 +200,13 @@
       "mscorlib.dll": "sha256-pO\/W4w\/X+UjVMUMaxE5tYTQ0tILP+hmMu0zi0MSVBLc=",
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
-      "frontend.dll": "sha256-ayqNDnNm5NGyUf83JNQD0\/+A1PNGoLHjLM6ybuKOXjA="
+      "frontend.dll": "sha256-3Mvc8LaFeo2pRVw4kNavvhVPjyBQQF6odeZoJ8sgZlo="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "frontend.pdb": "sha256-pQtM3FpH6\/O0Z1\/j9Qt2G64fpxtaJJhWjyQDIdKkloA="
+      "frontend.pdb": "sha256-qsy8iJpRGTuf5rtjFbN+JGCeb7tyKLf\/8\/s7+5TmLOo="
     },
     "runtime": {
       "dotnet.7.0.0.nrfyml25rf.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",

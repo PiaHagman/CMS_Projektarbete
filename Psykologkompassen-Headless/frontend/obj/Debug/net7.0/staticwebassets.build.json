@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c5u80B/xDm+/XisSu+/IhoveNgc/q7xOIlVnr48qb9M=",
+  "Hash": "TTN/KPiH3gJlLmteeU5LDsqlg84ls4MdGKA5/E8n/BA=",
   "Source": "frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -6900,6 +6900,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.development.json",
+      "SourceId": "frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.development.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.development.json"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\css\\app.css",
