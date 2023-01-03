@@ -74,39 +74,6 @@
         }
       },
       {
-        "HashCode": -1666472545,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.Footer",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Footer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.Footer"
-        }
-      },
-      {
-        "HashCode": 1876236236,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.Footer",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Shared.Footer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.Footer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 68460578,
         "Kind": "Components.Component",
         "Name": "frontend.Shared.MainLayout",
@@ -203,35 +170,68 @@
         }
       },
       {
-        "HashCode": 1865825889,
+        "HashCode": -1666472545,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Index",
+        "Name": "frontend.Shared.Footer",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Footer"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Index"
+          "Common.TypeName": "frontend.Shared.Footer"
         }
       },
       {
-        "HashCode": 1992576637,
+        "HashCode": 1876236236,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Index",
+        "Name": "frontend.Shared.Footer",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "frontend.Pages.Index"
+            "TagName": "frontend.Shared.Footer"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Index",
+          "Common.TypeName": "frontend.Shared.Footer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1393292045,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Contact",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Contact"
+        }
+      },
+      {
+        "HashCode": -1941067224,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Contact",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Pages.Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Contact",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -269,6 +269,39 @@
         }
       },
       {
+        "HashCode": 1865825889,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Index",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1992576637,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Index",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -399038436,
         "Kind": "Components.Component",
         "Name": "frontend.Pages.Blog",
@@ -298,39 +331,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "frontend.Pages.Blog",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1393292045,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Contact",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Contact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Contact"
-        }
-      },
-      {
-        "HashCode": -1941067224,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Contact",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Pages.Contact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Contact",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
