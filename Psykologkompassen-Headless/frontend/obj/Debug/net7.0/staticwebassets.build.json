@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lzC7b2FZekQ4jVVlYGQiHC2FY2JcWdHELJxf7mxD9FM=",
+  "Hash": "i1lc0CB/gu4QeshUP2DVz80asqASDoDSfxt/B2NGBVw=",
   "Source": "frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,91 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap.v5\\5.1.100\\staticwebassets\\BlazorStrap.V5.bundle.scp.css",
-      "SourceId": "BlazorStrap.V5",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap.v5\\5.1.100\\staticwebassets\\",
-      "BasePath": "_content/BlazorStrap.V5",
-      "RelativePath": "BlazorStrap.V5.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap.v5\\5.1.100\\staticwebassets\\BlazorStrap.V5.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\BlazorStrap.bundle.scp.css",
-      "SourceId": "BlazorStrap",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\",
-      "BasePath": "_content/BlazorStrap",
-      "RelativePath": "BlazorStrap.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\BlazorStrap.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\blazorstrap.js",
-      "SourceId": "BlazorStrap",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\",
-      "BasePath": "_content/BlazorStrap",
-      "RelativePath": "blazorstrap.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\blazorstrap.js"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\blazorstrap.min.js",
-      "SourceId": "BlazorStrap",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\",
-      "BasePath": "_content/BlazorStrap",
-      "RelativePath": "blazorstrap.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\blazorstrap.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\popper.min.js",
-      "SourceId": "BlazorStrap",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\",
-      "BasePath": "_content/BlazorStrap",
-      "RelativePath": "popper.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\staticwebassets\\popper.min.js"
-    },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "frontend",
@@ -134,57 +49,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.0\\build\\net7.0\\blazor.webassembly.js"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorComponentUtilities.dll",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorComponentUtilities.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorcomponentutilities\\1.7.1\\lib\\netstandard2.0\\BlazorComponentUtilities.dll"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorStrap.dll",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorStrap.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap\\5.1.100\\lib\\net7.0\\BlazorStrap.dll"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorStrap.V5.dll",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorStrap.V5.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\blazorstrap.v5\\5.1.100\\lib\\net7.0\\BlazorStrap.V5.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.0.nrfyml25rf.js",
@@ -354,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -371,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -388,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.0\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -405,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.0\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -439,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.1\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.0\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -711,7 +575,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.jsinterop\\7.0.1\\lib\\net7.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\.nuget\\packages\\microsoft.jsinterop\\7.0.0\\lib\\net7.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -4386,23 +4250,6 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\BbyCXbj6.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\BiPgEUmt.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -4726,23 +4573,6 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\eiC7gD6m.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\Elsyr40F.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -4962,23 +4792,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\GfyMgheM.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorStrap.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorStrap.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorStrap.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\gGdH0tvV.gz",
@@ -5202,23 +5015,6 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Drawing.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\hcPjtjvF.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorStrap.V5.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorStrap.V5.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorStrap.V5.dll"
-    },
-    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\HofH9EKa.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -5338,21 +5134,21 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Buffers.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\IpP+2qKH.gz",
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\iRvA6Kuz.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\iX5fQarb.gz",
@@ -5627,23 +5423,6 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.Mail.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\kTvsssOq.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\kUQOS19x.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -5659,23 +5438,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Core.dll"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\kxNGWc+m.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\l7y0p0AH.gz",
@@ -5848,6 +5610,23 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\WindowsBase.dll"
     },
     {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\MVB9GXMH.gz",
+      "SourceId": "frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\mw1UtboA.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -5863,6 +5642,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.dll"
+    },
+    {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\MYk+HGTG.gz",
+      "SourceId": "frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\n7R3fK6a.gz",
@@ -5982,6 +5778,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.Ping.dll"
+    },
+    {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\o6pgMNB8.gz",
+      "SourceId": "frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\Of3wkPvI.gz",
@@ -6426,23 +6239,6 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\rK7izAVi.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\rMHQr7H0.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -6458,23 +6254,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.dll"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\rvQfMHIt.gz",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BlazorComponentUtilities.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorComponentUtilities.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorComponentUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\s+gMGOnr.gz",
@@ -6679,6 +6458,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll"
+    },
+    {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\uBb41Tp8.gz",
+      "SourceId": "frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\Uc8vbkhl.gz",
@@ -6987,6 +6783,23 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Threading.Thread.dll"
     },
     {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\Yi30jUOC.gz",
+      "SourceId": "frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\build-gz\\yrD2i+eI.gz",
       "SourceId": "frontend",
       "SourceType": "Computed",
@@ -7053,40 +6866,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.NetworkInformation.dll"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\frontend.styles.css",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "frontend.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\frontend.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\frontend.bundle.scp.css",
-      "SourceId": "frontend",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "frontend.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\frontend.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.development.json",
