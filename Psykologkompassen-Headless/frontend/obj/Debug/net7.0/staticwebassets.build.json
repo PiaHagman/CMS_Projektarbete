@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hC+sXNRqZM0zkO69qV0IQnZPg4GXwdWGUfy7ESJ26XU=",
+  "Hash": "Pp1yMemgfXpRZJ3lCN6uSO1v0LMu4toldlcpg9GeKSc=",
   "Source": "frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -6868,12 +6868,12 @@
       "OriginalItemSpec": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.NetworkInformation.dll"
     },
     {
-      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.development.json",
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.json",
       "SourceId": "frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "appsettings.development.json",
+      "RelativePath": "appsettings.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6882,7 +6882,7 @@
       "AssetTraitValue": "settings",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\appsettings.development.json"
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\css\\app.css",

@@ -9,8 +9,8 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.development.json",
-      "PackagePath": "staticwebassets\\appsettings.development.json"
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
       "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\css\\app.css",
