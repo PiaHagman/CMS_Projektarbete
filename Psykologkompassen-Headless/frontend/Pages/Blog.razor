@@ -18,17 +18,18 @@ else
 
                 @foreach (var blogPost in allPosts.data)
                 {
-                    <h2 class="">@blogPost.Title</h2>
-                    <div class="">@blogPost.Content</div>
+                    <div class="post-preview">
 
-                    <div class="fw-light">
-                        Författare
-                        @blogPost.Author
+                        <h2 class="post-title">@blogPost.Title</h2>
+                        <div class="post-meta">@((MarkupString)blogPost.Content)</div>
+
+                        <p class="post-meta">
+                            Posted by
+                            @blogPost.Author
+                        </p>
+                        <!-- Divider-->
+                <hr class="my-4" />
                     </div>
-
-                    <!-- Divider-->
-                    <hr class="my-4" />
-
                 }
             </div>
         </div>
@@ -45,8 +46,6 @@ else
         strapi_api_url = Configuration["AppSettings:STRAPI_API_URL"];
         var url = "{STRAPI_API_URL}/api/blogposts?populate=*";
         allPosts = await Http.GetFromJsonAsync<PostList>(url.Replace("{STRAPI_API_URL}", strapi_api_url));
-        @* allPosts = await Http.GetFromJsonAsync<PostList>("http://localhost:1337/api/blogposts?populate=*"); *@
-
     }
 
     public class Post
