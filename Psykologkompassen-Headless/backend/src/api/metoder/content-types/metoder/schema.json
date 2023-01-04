@@ -1,19 +1,17 @@
 {
-  "kind": "collectionType",
+  "kind": "singleType",
   "collectionName": "metoders",
   "info": {
     "singularName": "metoder",
     "pluralName": "metoders",
-    "displayName": "Metoder"
+    "displayName": "Metoder",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "title": {
-      "type": "string"
-    },
     "content": {
       "type": "richtext"
     }

@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -1415273599,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Contact",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Contact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Contact"
-        }
-      },
-      {
-        "HashCode": -934282231,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Contact",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Pages.Contact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Contact",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2107928544,
         "Kind": "Components.Component",
         "Name": "frontend.Pages.Index",
@@ -107,35 +74,35 @@
         }
       },
       {
-        "HashCode": 305322349,
+        "HashCode": -1415273599,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Organisation",
+        "Name": "frontend.Pages.Contact",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Organisation"
+            "TagName": "Contact"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Organisation"
+          "Common.TypeName": "frontend.Pages.Contact"
         }
       },
       {
-        "HashCode": -1934719197,
+        "HashCode": -934282231,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Organisation",
+        "Name": "frontend.Pages.Contact",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "frontend.Pages.Organisation"
+            "TagName": "frontend.Pages.Contact"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Organisation",
+          "Common.TypeName": "frontend.Pages.Contact",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -169,6 +136,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "frontend.Pages.Blog",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 305322349,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Organisation",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Organisation"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Organisation"
+        }
+      },
+      {
+        "HashCode": -1934719197,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Organisation",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Pages.Organisation"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Organisation",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
