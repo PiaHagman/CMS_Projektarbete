@@ -6,6 +6,8 @@
 @using Models
 @inject IConfiguration Configuration
 
+<PageHeader ImageUrl="/images/shutterstock_118658845.jpg" SubTitle="Våra" Title="Metoder" />
+
 @if (pageContent == null)
 {
     <p><em>Loading...</em></p>
@@ -23,7 +25,7 @@ else
 @code {
     private PageContent pageContent = null;
     public string strapi_api_url;
-
+    //TODO try again to change organisation in the api to sigletype instead of collection.
     protected override async Task OnInitializedAsync()
     {
         strapi_api_url = Configuration["AppSettings:STRAPI_API_URL"];

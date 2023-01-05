@@ -1,4 +1,4 @@
-<header class="masthead" style="background-image: url(/images/trad.jpg)">
+<header class="masthead" style="background-image: url(@ImageUrl)">
     <div class="container position-relative px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
             <div>
@@ -13,12 +13,23 @@
     font-style: italic;
     color: #fff;
     margin: 20px auto;'>
-                        SUBTITLE
+                        @SubTitle
                     </span>
                     <h1 style="letter-spacing: 0.0588235em; font-size: 49px;">
-                        TITLE</h1>
+                        @Title</h1>
                 </div>
             </div>
         </div>
     </div>
 </header>
+
+@code {
+
+    [Parameter]
+    public string ImageUrl { get; set; } = "/images/trad.jpg";
+    [Parameter]
+    public string SubTitle { get; set; } = "förändringen börjar hos dig";
+    [Parameter]
+    public string Title { get; set; } = "RIKTNING.FÖRÄNDRING.RESULTAT.";
+
+}
