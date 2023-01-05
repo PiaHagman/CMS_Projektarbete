@@ -45,11 +45,10 @@
         var isExpanded = toggler.getAttribute("aria-expanded");
         var navbar = document.querySelector(".navbar");
         if (isExpanded === "true") {
-          navbar.style.backgroundColor = "#fff";
-          navbar.style.transition = "0.5s";
+          navbar.style.background =
+            "linear-gradient(90deg, rgba(255,255,255,0.8015581232492998) 0%, rgba(183,183,210,0.13489145658263302) 35%, rgba(0,212,255,1) 100%)";
         } else {
-          navbar.style.backgroundColor = "transparent";
-          navbar.style.transition = "0.5s";
+          navbar.style.background = "transparent";
         }
       }
     </script>

@@ -11051,6 +11051,7 @@ blockquote {
   border-bottom: 1px solid #dee2e6;
   font-size: 13px;
   text-transform: uppercase;
+  transition: 0.5s;
   letter-spacing: 2px;
   font-weight: 600;
   line-height: 1em;
