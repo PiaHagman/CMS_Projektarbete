@@ -93,6 +93,10 @@
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\main-logo-black.png",
+      "PackagePath": "staticwebassets\\images\\main-logo-black.png"
+    },
+    {
       "Id": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\main-logo.png",
       "PackagePath": "staticwebassets\\images\\main-logo.png"
     },

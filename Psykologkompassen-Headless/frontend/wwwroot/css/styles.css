@@ -11035,21 +11035,27 @@ blockquote {
   color: #6c757d;
 }
 
+.navbar-light .navbar-toggler {
+  color: #fff;
+  border-color: #fff;
+}
 
 #mainNav {
+  border-bottom-color: transparent;
+  background-color: transparent;
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   z-index: 1030;
   border-bottom: 1px solid #dee2e6;
-  background-color: #fff;
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 600;
   line-height: 1em;
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ 
           }
 #mainNav .navbar-brand {
   font-weight: 800;
@@ -11095,6 +11101,7 @@ blockquote {
 }
 
 @media(min-width: 992px) {
+
   #mainNav {
       transition: background-color 0.2s;
       /* Force Hardware Acceleration in WebKit */

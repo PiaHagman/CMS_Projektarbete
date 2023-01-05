@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pp1yMemgfXpRZJ3lCN6uSO1v0LMu4toldlcpg9GeKSc=",
+  "Hash": "bgE6ZB+QmkzvGsHEnY4qE/4u+1QN/H+fAnypEUzePHs=",
   "Source": "frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -7223,6 +7223,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\main-logo-black.png",
+      "SourceId": "frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/main-logo-black.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\main-logo-black.png"
     },
     {
       "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\images\\main-logo.png",
