@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bgE6ZB+QmkzvGsHEnY4qE/4u+1QN/H+fAnypEUzePHs=",
+  "Hash": "znc91na+J6vpeYQfHKwS+tqxYQxG9z9r+u8lbcdzmUc=",
   "Source": "frontend",
   "BasePath": "/",
   "Mode": "Root",
@@ -7359,6 +7359,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\js\\scripts.js",
+      "SourceId": "frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\annam\\source\\repos\\CMS_Projektarbete\\Psykologkompassen-Headless\\frontend\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     }
   ]
 }

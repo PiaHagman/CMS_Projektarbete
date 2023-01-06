@@ -1,10 +1,11 @@
 {
   "kind": "singleType",
-  "collectionName": "metoders",
+  "collectionName": "homes",
   "info": {
-    "singularName": "metoder",
-    "pluralName": "metoders",
-    "displayName": "Metoder"
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -17,12 +18,8 @@
     "MainHeader": {
       "type": "string"
     },
-    "Content": {
-      "type": "richtext"
-    },
     "Slug": {
-      "type": "uid",
-      "targetField": "MainHeader"
+      "type": "uid"
     }
   }
 }

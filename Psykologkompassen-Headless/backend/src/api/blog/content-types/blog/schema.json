@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "metoders",
+  "collectionName": "blogs",
   "info": {
-    "singularName": "metoder",
-    "pluralName": "metoders",
-    "displayName": "Metoder"
+    "singularName": "blog",
+    "pluralName": "blogs",
+    "displayName": "Blog"
   },
   "options": {
     "draftAndPublish": true
@@ -17,10 +17,7 @@
     "MainHeader": {
       "type": "string"
     },
-    "Content": {
-      "type": "richtext"
-    },
-    "Slug": {
+    "slug": {
       "type": "uid",
       "targetField": "MainHeader"
     }
