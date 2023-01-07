@@ -15,21 +15,11 @@
     "SubHeading": {
       "type": "string"
     },
-    "MainHeader": {
+    "MainHeading": {
       "type": "string"
     },
     "Slug": {
       "type": "uid"
-    },
-    "HeaderImage": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": false
     }
   }
 }

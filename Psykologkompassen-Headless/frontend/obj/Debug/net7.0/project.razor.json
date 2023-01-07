@@ -74,39 +74,6 @@
         }
       },
       {
-        "HashCode": -1394290155,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Metoder",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Metoder"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Metoder"
-        }
-      },
-      {
-        "HashCode": 428965551,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Metoder",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Pages.Metoder"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Metoder",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1879492179,
         "Kind": "Components.Component",
         "Name": "frontend.Pages.Blog",
@@ -136,6 +103,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "frontend.Pages.Blog",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1394290155,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Metoder",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Metoder"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Metoder"
+        }
+      },
+      {
+        "HashCode": 428965551,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Metoder",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Pages.Metoder"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Metoder",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -239,91 +239,6 @@
         }
       },
       {
-        "HashCode": 1494517489,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.PageHeader",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PageHeader"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ImageUrl",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "ImageUrl"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "SubTitle",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "SubTitle"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.PageHeader"
-        }
-      },
-      {
-        "HashCode": 1896356137,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.PageHeader",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Shared.PageHeader"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ImageUrl",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "ImageUrl"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "SubTitle",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "SubTitle"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.PageHeader",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 316908906,
         "Kind": "Components.Component",
         "Name": "frontend.Shared.MainLayout",
@@ -416,6 +331,91 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "frontend.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1494517489,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.PageHeader",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PageHeader"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ImageUrl",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ImageUrl"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SubTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "SubTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.PageHeader"
+        }
+      },
+      {
+        "HashCode": 1896356137,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.PageHeader",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Shared.PageHeader"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ImageUrl",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ImageUrl"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SubTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "SubTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.PageHeader",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

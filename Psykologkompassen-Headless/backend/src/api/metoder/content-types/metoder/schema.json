@@ -4,7 +4,8 @@
   "info": {
     "singularName": "metoder",
     "pluralName": "metoders",
-    "displayName": "Metoder"
+    "displayName": "Metoder",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -14,15 +15,14 @@
     "SubHeading": {
       "type": "string"
     },
-    "MainHeader": {
+    "MainHeading": {
       "type": "string"
     },
     "Content": {
       "type": "richtext"
     },
     "Slug": {
-      "type": "uid",
-      "targetField": "MainHeader"
+      "type": "uid"
     }
   }
 }
