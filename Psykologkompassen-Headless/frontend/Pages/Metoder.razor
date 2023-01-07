@@ -1,19 +1,21 @@
 @page "/Metoder"
-<PageTitle>Organisation - Psykologkompassen</PageTitle>
+<PageTitle>Metoder - Psykologkompassen</PageTitle>
 
 @inject HttpClient Http
 @using Microsoft.Extensions.Configuration;
 @inject IConfiguration Configuration
 
-<PageHeader ImageUrl="/images/shutterstock_118658845.jpg" SubTitle=@methodsPageData.Data.SubHeading
-    Title=@methodsPageData.Data.MainHeading />
-
+<Navbar />
 @if (methodsPageData == null)
 {
+
+    <PageHeader></PageHeader>
     <p><em>Loading...</em></p>
 }
 else
 {
+    <PageHeader ImageUrl="/images/shutterstock_118658845.jpg" SubTitle=@methodsPageData.Data.SubHeading
+    Title=@methodsPageData.Data.MainHeading />
     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-md-10 col-lg-8 col-xl-7">
@@ -25,15 +27,12 @@ else
 @code {
     private MethodsPageData methodsPageData = null;
     public string strapi_api_url;
-    //TODO try again to change organisation in the api to sigletype instead of collection.
     protected override async Task OnInitializedAsync()
     {
         strapi_api_url = Configuration["AppSettings:STRAPI_API_URL"];
         var url = "{STRAPI_API_URL}/api/metoder";
         methodsPageData = await Http.GetFromJsonAsync<MethodsPageData>(url.Replace("{STRAPI_API_URL}", strapi_api_url));
     }
-
-
 
     public class Data
     {

@@ -74,35 +74,35 @@
         }
       },
       {
-        "HashCode": 825173448,
+        "HashCode": -1394290155,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Index",
+        "Name": "frontend.Pages.Metoder",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Metoder"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Index"
+          "Common.TypeName": "frontend.Pages.Metoder"
         }
       },
       {
-        "HashCode": -192447993,
+        "HashCode": 428965551,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Index",
+        "Name": "frontend.Pages.Metoder",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "frontend.Pages.Index"
+            "TagName": "frontend.Pages.Metoder"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Index",
+          "Common.TypeName": "frontend.Pages.Metoder",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -140,35 +140,35 @@
         }
       },
       {
-        "HashCode": -1394290155,
+        "HashCode": 825173448,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Metoder",
+        "Name": "frontend.Pages.Index",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Metoder"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Metoder"
+          "Common.TypeName": "frontend.Pages.Index"
         }
       },
       {
-        "HashCode": 428965551,
+        "HashCode": -192447993,
         "Kind": "Components.Component",
-        "Name": "frontend.Pages.Metoder",
+        "Name": "frontend.Pages.Index",
         "AssemblyName": "frontend",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "frontend.Pages.Metoder"
+            "TagName": "frontend.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Metoder",
+          "Common.TypeName": "frontend.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -202,6 +202,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "frontend.Shared.Footer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 413315495,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.Navbar",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.Navbar"
+        }
+      },
+      {
+        "HashCode": -1607058961,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.Navbar",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Shared.Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.Navbar",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -287,39 +320,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "frontend.Shared.PageHeader",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 413315495,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.Navbar",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.Navbar"
-        }
-      },
-      {
-        "HashCode": -1607058961,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.Navbar",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Shared.Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.Navbar",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
