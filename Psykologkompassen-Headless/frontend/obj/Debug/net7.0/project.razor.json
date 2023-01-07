@@ -74,6 +74,39 @@
         }
       },
       {
+        "HashCode": 825173448,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Index",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -192447993,
+        "Kind": "Components.Component",
+        "Name": "frontend.Pages.Index",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1879492179,
         "Kind": "Components.Component",
         "Name": "frontend.Pages.Blog",
@@ -140,39 +173,6 @@
         }
       },
       {
-        "HashCode": 825173448,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Index",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -192447993,
-        "Kind": "Components.Component",
-        "Name": "frontend.Pages.Index",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1799084482,
         "Kind": "Components.Component",
         "Name": "frontend.Shared.Footer",
@@ -202,39 +202,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "frontend.Shared.Footer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 413315495,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.Navbar",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.Navbar"
-        }
-      },
-      {
-        "HashCode": -1607058961,
-        "Kind": "Components.Component",
-        "Name": "frontend.Shared.Navbar",
-        "AssemblyName": "frontend",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "frontend.Shared.Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "frontend.Shared.Navbar",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -331,6 +298,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "frontend.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 413315495,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.Navbar",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.Navbar"
+        }
+      },
+      {
+        "HashCode": -1607058961,
+        "Kind": "Components.Component",
+        "Name": "frontend.Shared.Navbar",
+        "AssemblyName": "frontend",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "frontend.Shared.Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "frontend.Shared.Navbar",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
