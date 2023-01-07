@@ -1,0 +1,48 @@
+@page "/Metoder"
+<PageTitle>Metoder - Psykologkompassen</PageTitle>
+
+@inject HttpClient Http
+@using Microsoft.Extensions.Configuration;
+@inject IConfiguration Configuration
+
+<Navbar />
+@if (methodsPageData == null)
+{
+
+    <PageHeader></PageHeader>
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <PageHeader ImageUrl="/images/shutterstock_118658845.jpg" SubTitle=@methodsPageData.Data.SubHeading
+    Title=@methodsPageData.Data.MainHeading />
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <div>@((MarkupString)methodsPageData.Data.Content)</div>
+            </div>
+        </div>
+    </div>
+}
+@code {
+    private MethodsPageData methodsPageData = null;
+    public string strapi_api_url;
+    protected override async Task OnInitializedAsync()
+    {
+        strapi_api_url = Configuration["AppSettings:STRAPI_API_URL"];
+        var url = "{STRAPI_API_URL}/api/metoder";
+        methodsPageData = await Http.GetFromJsonAsync<MethodsPageData>(url.Replace("{STRAPI_API_URL}", strapi_api_url));
+    }
+
+    public class Data
+    {
+        public string Content { get; set; }
+        public string SubHeading { get; set; }
+        public string MainHeading { get; set; }
+    }
+    public class MethodsPageData
+    {
+        public Data Data { get; set; }
+    }
+
+}
